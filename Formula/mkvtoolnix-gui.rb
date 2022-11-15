@@ -1,4 +1,4 @@
-class Mkvtoolnix < Formula
+class MkvtoolnixGui < Formula
   desc "Matroska media files manipulation tools"
   homepage "https://mkvtoolnix.download/"
   url "https://mkvtoolnix.download/sources/mkvtoolnix-71.1.0.tar.xz"
